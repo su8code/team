@@ -47,7 +47,7 @@ After successully configuring and testing the project we have to get the jar bin
 Even if the steps for Extracting  the jar file vary from one IDE to other IDE , in all integrated development environments after successfully building and exporting the project our IDE will create the jar file inside our project folder including the libraries our project is configured to include(external libraries will be stored inside the lib folder along our .jar file).
 
 After Successfully making your jar file you will get an output like this
-![Edit Profile](images/jar.JPG)
+![Jar File](https://github.com/su8code/ethioclicks-javaapp/blob/main/images/jar.JPG?raw=true)
 
 Since our sample java project includes external database connector library our IDE have created a 'lib; folder along our jar file
 
